@@ -63,35 +63,35 @@ Peer Storage Nodes      Azure Relay
 
 ---
 
-# 🖥 Application Screenshots
+# 🖼️ Application Screenshots
 
 ## Login Page
 
-![Login](screenshots/login-page.png)
+![Login](screenshots/login_page.png)
 
 ---
 
 ## Registration
 
-![Register](screenshots/register-user.png)
+![Register](screenshots/Register_User.png)
 
 ---
 
 ## Upload Dashboard
 
-![Dashboard](screenshots/upload-dashboard.png)
+![Dashboard](screenshots/Upload_Dashboard.png)
 
 ---
 
 ## Upload File
 
-![Upload](screenshots/upload-file.png)
+![Upload](screenshots/Upload_File.png)
 
 ---
 
 ## Download File
 
-![Download](screenshots/download-file.png)
+![Download](screenshots/Download_File.png)
 
 ---
 
