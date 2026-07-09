@@ -1,0 +1,46 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Rider
+.idea/
+
+# Publish
+publish/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+
+# Secrets
+appsettings.Development.json
+
+# Certificates
+*.pfx
+*.snk
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# User files
+*.cache
+
+# Generated
+Generated/
+
+# Azure publish profiles
+Properties/PublishProfiles/
+
+# Local storage
+Uploads/
+Downloads/
+DNStore/
