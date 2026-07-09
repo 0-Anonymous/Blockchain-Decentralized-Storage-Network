@@ -1,6 +1,13 @@
-# 🚀 Blockchain Decentralized Storage Network
+# 🚀 Blockchain-Based Decentralized Storage Network
 
 A **Blockchain-based Decentralized File Storage System** developed as a Final Year B.E. Computer Engineering Project.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-Desktop-blue?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-Decentralized-green?style=for-the-badge)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 This project combines **Blockchain**, **AES-256 Encryption**, **Peer-to-Peer Networking**, and **Cloud Backup** to provide a secure, decentralized alternative to traditional cloud storage.
 
@@ -200,8 +207,6 @@ Run the WPF Application.
 **Aditya**
 
 Bachelor of Engineering (Computer Engineering)
-
-Savitribai Phule Pune University
 
 ---
 
