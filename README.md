@@ -13,6 +13,15 @@ This project combines **Blockchain**, **AES-256 Encryption**, **Peer-to-Peer Net
 
 ---
 
+## 📌 Project Highlights
+
+- 🔐 AES-256 File Encryption
+- ⛓ Blockchain-based File Verification
+- 🌐 UDP Peer-to-Peer Networking
+- ☁ Azure Relay Backup
+- 📂 Distributed File Storage
+- 🔄 Multi-device Synchronization****
+
 ## 📌 Features
 
 ✔ Secure User Registration & Login
@@ -205,8 +214,6 @@ Run the WPF Application.
 # 👨‍💻 Author
 
 **Aditya**
-
-Bachelor of Engineering (Computer Engineering)
 
 ---
 
