@@ -174,3 +174,4 @@ D:\BE Project\DNS_blockchain_old\DNStore\obj\Debug\net9.0-windows\refint\DNStore
 D:\BE Project\DNS_blockchain_old\DNStore\obj\Debug\net9.0-windows\DNStore.pdb
 D:\BE Project\DNS_blockchain_old\DNStore\obj\Debug\net9.0-windows\DNStore.genruntimeconfig.cache
 D:\BE Project\DNS_blockchain_old\DNStore\obj\Debug\net9.0-windows\ref\DNStore.dll
+D:\BE Project\DNS_blockchain_old\DNStore\obj\Debug\net9.0-windows\DNStore.sourcelink.json

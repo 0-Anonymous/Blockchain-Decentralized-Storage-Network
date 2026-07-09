@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DNStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4c3ad3c4fc3c168941ff8885216bac1776dc5f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DNStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DNStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
