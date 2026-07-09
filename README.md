@@ -60,10 +60,4 @@ Open
 DNStore.sln
 ```
 
-Run the Backend
-
 Run the WPF Application
-
-## Authors
-
-Aditya
