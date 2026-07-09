@@ -1,0 +1,6 @@
+D:\BE Project\DNS_blockchain_old\DNStore\bin\Release\net9.0-windows\publish\DNStore.exe
+D:\BE Project\DNS_blockchain_old\DNStore\bin\Release\net9.0-windows\publish\DNStore.dll
+D:\BE Project\DNS_blockchain_old\DNStore\bin\Release\net9.0-windows\publish\DNStore.deps.json
+D:\BE Project\DNS_blockchain_old\DNStore\bin\Release\net9.0-windows\publish\DNStore.runtimeconfig.json
+D:\BE Project\DNS_blockchain_old\DNStore\bin\Release\net9.0-windows\publish\DNStore.pdb
+D:\BE Project\DNS_blockchain_old\DNStore\bin\Release\net9.0-windows\publish\Newtonsoft.Json.dll
